@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1709580455 source:c:\users\kajus\onedrive\dokumentai\informatikos darbai\savizudziu rulete\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	<algorithm>
+	<windows.h>
+	<conio.h>
+	<chrono>
+	<thread>
+
